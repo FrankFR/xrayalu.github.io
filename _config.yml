@@ -1,5 +1,24 @@
-#title: "CT-Kompetenzzentrum Freiburg"
-#description: "Computed Tomography setups and results from various institutes and research groups in Freiburg."
-#author: "Inatech SSE"
-theme: minima
-#TestKommentar
+# @Author: Georg C. Ganzenmueller, Albert-Ludwigs Universitaet Freiburg, Germany
+# @Date:   2024-12-19 17:08:28
+# @Last Modified by:   Georg C. Ganzenmueller, Albert-Ludwigs Universitaet Freiburg, Germany
+# @Last Modified time: 2024-12-20 22:24:54
+title: Millidocs Theme
+description: Documentation for small projects
+url: "https://github.com/alexander-heimbuch/millidocs" # the base hostname & protocol for your site, e.g. http://example.com
+
+remote_theme: alexander-heimbuch/millidocs
+
+# Build settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable : true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: compressed
