@@ -24,19 +24,19 @@ Micro-Computed Tomography (Micro-CT) is a powerful tool for non-destructive 3D i
    </div>
    <div style="text-align: center;">
     <img src="images\equipment\06_CT_BFRP.jpg" width="1024px" alt="Reinforced Polymer">
-    <em>Figure 1: CT reconstruction of a fiber-reinforced plastic in a rendered 3D view as well as in multiplanar cross-sectional images. Voxel size: 800 nm.
+    <em>Figure 5: CT reconstruction of a fiber-reinforced plastic in a rendered 3D view as well as in multiplanar cross-sectional images. Voxel size: 800 nm.
 </em>
   </div>
 <br>
 <div style="text-align: center;">
     <img src="images\equipment\03_CT_bone.jpg" width="1024px" alt="Bone substitue">
-    <em>Figure 2: CT reconstruction of a bone substitute material in a rendered 3D view and multiplanar cross-sectional view. Voxel size: 7 µm.
+    <em>Figure 6: CT reconstruction of a bone substitute material in a rendered 3D view and multiplanar cross-sectional view. Voxel size: 7 µm.
 </em>
   </div>
 <br>
 <div style="text-align: center;">
     <img src="images\equipment\02_CT_wasp.jpg" width="1024px" alt="Wasp Head">
-    <em>Figure 3: CT reconstruction of a wasp head in a rendered 3D view and multiplanar cross-sectional view. Voxel size: 2 µm.
+    <em>Figure 7: CT reconstruction of a wasp head in a rendered 3D view and multiplanar cross-sectional view. Voxel size: 2 µm.
 </em>
   </div>
 </details>
@@ -56,7 +56,7 @@ This nanoCT system with a built-in 160 kV nanofocus tube offers ultra-high-resol
    </div>
    <div style="text-align: center;">
     <img src="images\research\matresearch\MosquitoHead.png" width="1024px" alt="nanoCT">
-    <em>Figure 1: CT reconstruction of parts of a mosquito head. Voxel size 1.5 µm. Image courtesy of Gerardo Roque and Michael Schütz.
+    <em>Figure 8: CT reconstruction of parts of a mosquito head. Voxel size 1.5 µm. Image courtesy of Gerardo Roque and Michael Schütz.
 </em>
   </div>
 
@@ -78,13 +78,13 @@ The setup has a maximum propagation path of ~1.6m, and can emulate detector size
    </div>
    <div style="text-align: center;">
     <img src="images\research\preclinical\Clouseau_Phantom_Vergleich.png" width="1024px" alt="Clouseau imaging">
-    <em>Figure 3: Clouseau allows for superresolved image acquisition, based on supersampled image acquisition and iterative image deconvolution techniques. This approach offers an exteremely efficient way of increasing system resolution while maitaining low dose exposure and short measurement times.
+    <em>Figure 9: Clouseau allows for superresolved image acquisition, based on supersampled image acquisition and iterative image deconvolution techniques. This approach offers an exteremely efficient way of increasing system resolution while maitaining low dose exposure and short measurement times.
 </em>
   </div>
 <br>
 <div style="text-align: center;">
     <img src="images\research\clinical\Clouseau.png" width="1024px" alt="Clouseau phantom">
-    <em>Figure 3: Clouseau also allows to image objects exhibiting strong beam-hardening with high image quality: 
+    <em>Figure 10: Clouseau also allows to image objects exhibiting strong beam-hardening with high image quality: 
 Cross-sections of Miethke GAV CSF shunt valves obtained from different CT scanners. From left to
 right: Siemens Somatom Force (EID, kernel: Br64, algorithm: Admire level 3), Siemens Naeotom (Ultra High-
 Resolution mode, kernel: Hr80, algorithm: QIR level 3), Bruker SkyScan 1276 (100kVp, Cu .1mm) and our
