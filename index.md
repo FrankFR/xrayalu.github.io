@@ -9,7 +9,8 @@ navigation: 1
 ![LogoUK](images\logo\Logo_FMF.png){: height="100" }
 
 
-
+<br>
+<br>
 <div style="text-align: center;">
   <h2>Welcome to the CT Competence Center Freiburg</h2>
 </div>

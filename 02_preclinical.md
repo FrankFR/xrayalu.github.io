@@ -9,7 +9,7 @@ navigation: 2
 <div style="text-align: justify;">
 Preclinical CT allows researchers to visualize internal structures of small animals and biological samples with high resolution. It is widely used in disease modeling, drug development, and anatomical studies. Applications include cancer research, bone density analysis, and cardiovascular investigations. The ability to perform in vivo imaging over time enables non-invasive monitoring of disease progression and treatment effects. This technology supports medical advancements by bridging the gap between laboratory research and clinical applications.
 </div>
-
+<br>
 <details>
   <summary style="font-size: 1.5em; font-weight: bold;">Bruker 1276</summary>
  

@@ -9,14 +9,14 @@ navigation: 3
 <div style="text-align: justify;">
 Preclinical CT allows researchers to visualize internal structures of small animals and biological samples with high resolution. It is widely used in disease modeling, drug development, and anatomical studies. Applications include cancer research, bone density analysis, and cardiovascular investigations. The ability to perform in vivo imaging over time enables non-invasive monitoring of disease progression and treatment effects. This technology supports medical advancements by bridging the gap between laboratory research and clinical applications.
 </div>
-
+<br>
 <details>
   <summary style="font-size: 1.5em; font-weight: bold;">Siemens Naeotom "Clouseau"</summary>
  
   <div style="text-align: justify;">
  <br>
   The Siemens Naeotom Alpha is the world’s first photon-counting CT, setting new standards in image quality and diagnostic precision. Unlike conventional CT scanners, it uses photon-counting detector technology to deliver ultra-high resolution images with reduced noise and enhanced tissue contrast. This innovation enables clearer visualization of fine structures, improved spectral imaging, and lower radiation doses. The Naeotom Alpha provides unparalleled diagnostic accuracy, benefiting fields such as cardiology, oncology, and neurology. Its advanced reconstruction algorithms and high-speed data acquisition ensure faster, more precise imaging, making it a groundbreaking solution for the future of medical diagnostics.
- <br><br>
+ <br>
    </div>
    <div style="text-align: center;">
     <img src="images\research\preclinical\Clouseau_Phantom_Vergleich.png" width="1024px" alt="Clouseau imaging">
