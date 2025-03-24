@@ -5,7 +5,7 @@ navigation: 1
 ---
 
 ![Logo](/images/logo/logo-alu-sse_width1000.png){: width="400" }
-![LogoUK](\images\logo\Uniklinik_Freiburg.png){: width="200" }
+![LogoUK](images\logo\Uniklinik_Freiburg.png){: width="200" }
 ![LogoUK](images\logo\Logo_FMF.png){: height="100" }
 
 
