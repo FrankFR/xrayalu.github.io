@@ -15,9 +15,9 @@ For any inquiries or questions about the CT setups and services featured on this
 |----------------------- |--------------------------------|
 | ![Martin](/images/people/MartinPichotka.jpg){: height="160" } | **Dr. Martin Pichotka** <br/> Head of the Spectral CT Research Group, University Medical Center Freiburg <br/>Tel. 0761 270-73950 <br/> martin.pichotka@uniklinik-freiburg.de |
 |----------------------- |--------------------------------|
-| ![Michael](/images\people\MichaelSchuetz1.jpg){: height="160" } | **M.Sc. Michael Schütz** <br/> PhD student, FMF - Freiburg Materials Research Center <br/> Tel. 0761 203-4769 <br/> michael.schuetz@fmf.uni-freiburg.de |
+| ![Michael](/images/people/MichaelSchuetz1.jpg){: height="160" } | **M.Sc. Michael Schütz** <br/> PhD student, FMF - Freiburg Materials Research Center <br/> Tel. 0761 203-4769 <br/> michael.schuetz@fmf.uni-freiburg.de |
 |----------------------- |--------------------------------|
-| ![Georg](/images/people//03_Georg.jpg){: height="160" } | **AkaRat Dr. Georg Ganzenmüller** <br/> Group leader Materials Characterisation, Gips-Schüle Chair for Sustainable Systems Engineering <br/> Tel. 0761 203-96784 <br/> georg.ganzenmueller@inatech.uni-freiburg.de |
+| ![Georg](/images/people/03_Georg.jpg){: height="160" } | **AkaRat Dr. Georg Ganzenmüller** <br/> Group leader Materials Characterisation, Gips-Schüle Chair for Sustainable Systems Engineering <br/> Tel. 0761 203-96784 <br/> georg.ganzenmueller@inatech.uni-freiburg.de |
 |----------------------- |--------------------------------|
 
 
