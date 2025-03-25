@@ -14,11 +14,12 @@ navigation: 1
 <div style="text-align: center;">
   <h2>Welcome to the Computed Tomography Center Freiburg</h2>
 </div>
-<br>
+
 <div style="text-align: center;">
     <img src="images\logo\Logo_CTCF.png" width="512px" alt="CTC Logo">
 <br>
 <div style="text-align: center;">
+<br>
 <h3>What we offer</h3>
 <ul style="display: inline-block; text-align: justify;">
          <li>High-resolution CT scans for samples ranging from sub-millimeter sizes to 30 cm in diameter.</li>
