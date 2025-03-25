@@ -23,19 +23,19 @@ Micro-Computed Tomography (Micro-CT) is a powerful tool for non-destructive 3D i
  <br><br>
    </div>
    <div style="text-align: center;">
-    <img src="images\equipment\06_CT_BFRP.jpg" width="1024px" alt="Reinforced Polymer">
+    <img src="images\equipment\CT_BFRP_scale.png" width="1024px" alt="Reinforced Polymer">
     <em>Figure 5: CT reconstruction of a fiber-reinforced plastic in a rendered 3D view as well as in multiplanar cross-sectional images. Voxel size: 800 nm.
 </em>
   </div>
 <br>
 <div style="text-align: center;">
-    <img src="images\equipment\03_CT_bone.jpg" width="1024px" alt="Bone substitue">
+    <img src="images\equipment\CT_Bone_scale.png" width="1024px" alt="Bone substitue">
     <em>Figure 6: CT reconstruction of a bone substitute material in a rendered 3D view and multiplanar cross-sectional view. Voxel size: 7 µm.
 </em>
   </div>
 <br>
 <div style="text-align: center;">
-    <img src="images\equipment\02_CT_wasp.jpg" width="1024px" alt="Wasp Head">
+    <img src="images\equipment\CT_wasp_scale.png" width="1024px" alt="Wasp Head">
     <em>Figure 7: CT reconstruction of a wasp head in a rendered 3D view and multiplanar cross-sectional view. Voxel size: 2 µm.
 </em>
   </div>

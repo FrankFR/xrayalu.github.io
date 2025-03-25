@@ -12,9 +12,21 @@ navigation: 1
 <br>
 <br>
 <div style="text-align: center;">
-  <h2>Welcome to the CT Competence Center Freiburg</h2>
+  <h2>Welcome to the Computed Tomography Center Freiburg</h2>
 </div>
-
+<br>
+<div style="text-align: center;">
+    <img src="images\logo\CTC.jpeg" width="512px" alt="CTC Logo">
+<br>
+<div style="text-align: center;">
+<h3>What we offer</h3>
+<ul style="display: inline-block; text-align: justify;">
+         <li>High-resolution CT scans for samples ranging from sub-millimeter sizes to 30 cm in diameter.</li>
+        <li>Spatial resolution from 500 nm for small-scale samples to millimeter-range in clinical CT applications.</li>
+        <li>In situ tensile and compressive testing with interrupted scans under applied load.</li>
+        <li>Highly adaptable system with a wide range of X-ray sources and detectors for versatile applications.</li>
+    </ul>
+</div>
 
 
 <div style="text-align: justify;">
