@@ -16,7 +16,7 @@ navigation: 1
 </div>
 <br>
 <div style="text-align: center;">
-    <img src="images\logo\CTC.jpeg" width="512px" alt="CTC Logo">
+    <img src="images\logo\Logo_CTCF.png" width="512px" alt="CTC Logo">
 <br>
 <div style="text-align: center;">
 <h3>What we offer</h3>
