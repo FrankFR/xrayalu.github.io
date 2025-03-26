@@ -46,7 +46,7 @@ Micro-Computed Tomography (Micro-CT) is a powerful tool for non-destructive 3D i
   <br>
 
 <details>
-  <summary style="font-size: 1.5em; font-weight: bold;">Custom nanoCT</summary>
+  <summary style="font-size: 1.5em; font-weight: bold;">Custom nano CT</summary>
  
   <div style="text-align: justify;">
  <br>
@@ -59,7 +59,14 @@ This nanoCT system with a built-in 160 kV nanofocus tube offers ultra-high-resol
     <em>Figure 8: CT reconstruction of parts of a mosquito head. Voxel size 1.5 µm. Image courtesy of Gerardo Roque and Michael Schütz.
 </em>
   </div>
+<br>
 
+<div style="text-align: center;">
+    <img src="images\equipment\Röhre_groß.png" width="512px" alt="nanoCT" style="display: block; margin: auto;">
+    <em>Figure 9: The special design of both source and load frame enables in-situ scans of small samples at high resolution.
+</em>
+  </div>
+<br>
 </details>
 
 <div style="text-align: center;">
@@ -67,7 +74,7 @@ This nanoCT system with a built-in 160 kV nanofocus tube offers ultra-high-resol
   </div>
 <br>
 <details>
-  <summary style="font-size: 1.5em; font-weight: bold;">Custom PC-CT</summary>
+  <summary style="font-size: 1.5em; font-weight: bold;">Custom photon-counting CT</summary>
  
   <div style="text-align: justify;">
  <br>
