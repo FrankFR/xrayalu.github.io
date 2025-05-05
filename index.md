@@ -7,8 +7,6 @@ navigation: 1
 ![Logo](/images/logo/logo-alu-sse_width1000.png){: width="400" }
 ![LogoUK](images\logo\Uniklinik_Freiburg.png){: width="200" }
 ![LogoUK](images\logo\Logo_FMF.png){: height="100" }
-
-
 <br>
 <br>
 <div style="text-align: center;">
@@ -18,8 +16,16 @@ navigation: 1
 <div style="text-align: center;">
     <img src="images\logo\LOGO_NEW_CTC_Fat.png" width="512px" alt="CTC Logo">
 <br>
-<div style="text-align: center;">
 <br>
+<div style="text-align: center;">
+  <video autoplay loop muted height="1024">
+    <source src="images\Video_Stahlbeton_rotation_Website_Portrait.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+<br>
+<br>
+
 <br>
 <h3><u>What we offer</u></h3>
 <ul style="display: inline-block; text-align: justify;">
