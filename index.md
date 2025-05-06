@@ -18,10 +18,13 @@ navigation: 1
 <br>
 <br>
 <div style="text-align: center;">
-  <video autoplay loop muted height="1024">
+  <video autoplay loop muted height="1024" style="display: block; margin: 0 auto;">
     <source src="images\Video_Stahlbeton_rotation_Website_Portrait.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+<p style="font-style: italic; max-width: 600px; margin: 0 auto; text-align: center;">
+    Animation of a reinforced concrete sample. Segmentation was performed to emphasize the metallic reinforcement structure. Height: 15.50 cm, Edge Length: 6.5 cm, Resolution: 0.07 mm (70 &mu;m).
+  </p>
 </div>
 <br>
 <br>
